@@ -1,0 +1,20 @@
+.card_1 {
+    background-color: rgb(228, 151, 151);
+}
+
+.card_2 {
+    background-color: rgb(164, 164, 233);
+}
+
+.card_3 {
+    background-color: rgb(242, 205, 127);
+}
+
+.card_4 {
+    background-color: rgb(131, 186, 237);
+}
+
+.card_active {
+    width: 80%;
+    margin: auto;
+}
